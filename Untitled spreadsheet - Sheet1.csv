@@ -1,0 +1,22 @@
+Check,Status,Test information+ comments
+Open the website https://www2.hm.com/en_ca/index.html,passed,
+Press the user icon to 'Sing In',passed,
+Write a valid gmail and press 'continue' button,passed,mariia.pron@gmail.com
+In sing up page in password field try to put  not enought numbers ,passed,q1Qqqqq
+In sing up page in password field  try to put the more then is valid characters are,passed,qA1qqqqqqqqqqqqqqqqqqqqqqq
+In sing up page in password field try to put the space between the characters,passed,q1Qq qqqq
+Sing up with valid password,passed,qA1qqqq
+Sing up with invalid yearof birdth,passed,1111
+Sing up with valid date of birdth and press the button ' Becom an H&M member',passed,1994-0*-2* ( private information to show it here)
+In the main page in search option try to fing the product name 'shoes',passed,
+In the first page in search result 'product' chech if all product are from shoes category,passed,
+In the last page in search result 'product' chech if all product are from shoes category,passed,
+In the up in category select women shoes and check first page does the product match the name,passed,
+In the up in category select women shoes and check last page does the product match the name,passed,
+In the up in category select baby shoes and check firs page does the product match the name,failed,Open bug raport
+In the up in category select baby shoes and check second page does the product match the name,failed,Open bug raport
+In the up in category select baby shoes and check third page does the product match the name,failed,
+In the up in category select baby shoes and check forth page does the product match the name,passed,
+Add 3 random product from home category to favorite,passed,Metal table lamp - $74.99                                        Fluffy Cushion Cover - $34.99                                                 Rice Paper Floor Lamp - $129.00
+Add to bag  3 product from favorite,passed,Metal table lamp - $74.99                                        Fluffy Cushion Cover - $34.99                                                 Rice Paper Floor Lamp - $129.00
+Check the summary of this 3 product ,passed,$239.98
