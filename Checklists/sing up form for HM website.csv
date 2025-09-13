@@ -1,0 +1,24 @@
+ID,Description,Status,Comments
+1,Open the website https://www2.hm.com/en_ca/index.html,passed,
+2,Check that the email address field is visible,passed,
+3,Check that the Continue button is visible.,passed,
+4,Check the behavior when an invalid email is entered,faild,open the Bug rapport
+5,Check the error message when the email field is left empty,passed,
+6,Check the behavior when a valid email address is entered,passed,mariia.pron@gmail.com
+7,Check that the H&M Membership link is working,passed,
+8,Check that the Login address field is visible,passed,
+9,Check the error message when the password contains not enought characters,passed,1234567
+10,Check the error message when the password exceeds the maximum allowed characters,passed, 26 random characters
+11,Check that the ‘Show/Hide Password’ function works correctly (toggle eye icon),passed,
+12,Check the behavior when a valid password is entered,passed,Mmonday2025
+13,Check the error message when an invalid year of birth is entered in the Date of Birth field,passed,1111
+14,Check the error message when an invalid month of birth is entered in the Date of Birth field,passed,13
+15,Check the error message when an invalid day of birth is entered in the Date of Birth field,passed,32
+16,Check the behavior when the mandatory Date of Birth field is left empty,faild,open the Bug rapport
+17,Check the error message when the mandatory Date of Birth field is left empty,faild,open the Bug rapport
+18,Check that the Privacy Notice link is working ,passed,
+19,Check that the  H&M Membership Terms & Conditions link is working ,passed,
+20,Check the behavior when an invalid First name is entered,faild,open the Bug rapport
+21,Check the behavior when an invalid Last name is entered,faild,open the Bug rapport
+22,Check the behavior when a valid First name is entered,passed,
+,Check the behavior when a valid Last name is entered,passed,
